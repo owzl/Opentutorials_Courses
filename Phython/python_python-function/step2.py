@@ -1,0 +1,22 @@
+# 함수 정의 (*들여쓰기!)
+def abc():
+    print('a')
+    print('b')
+    print('c')
+
+#print('A')
+#print('B')
+#print('C')
+abc()
+print(1)
+#print('A')
+#print('B')
+#print('C')
+abc()
+print(2)
+#print('A')
+#print('B')
+#print('C')
+abc()
+print(3)
+
